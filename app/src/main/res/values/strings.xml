@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">List Persist</string>
+    <string name="title_item_detail">Item Detail</string>
+
+    <string name="action_add">+</string>
+    <string name="action_delete_last">-</string>
+    <string name="action_clear">Clear</string>
+    <string name="pronunciation">Pronunciation</string>
+
+
+
+
+</resources>
